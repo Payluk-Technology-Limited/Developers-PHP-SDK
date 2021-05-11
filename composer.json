@@ -1,0 +1,10 @@
+{
+    "name": "ezumah/payluk-sdk",
+    "description": "payluk developer library",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
